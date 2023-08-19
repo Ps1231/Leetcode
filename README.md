@@ -52,5 +52,6 @@ git push origin feature/new-problem
 <br/>
 <h2>Acknowledgments</h2>
 LeetCode for providing a platform to practice coding skills.
+<br/>
 @Ps1231 for creating and maintaining this repository.
 

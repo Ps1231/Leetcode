@@ -3,9 +3,10 @@ This repository contains my solutions to various LeetCode problems implemented i
 
 <h2>Getting Started</h2>
 1. Clone this repository to your local machine:
-bash
-Copy code
+
+```bash
 git clone https://github.com/your-username/leetcode-cpp-solutions.git
+```
 2. Navigate to the problem folder you're interested in:
 bash
 Copy code

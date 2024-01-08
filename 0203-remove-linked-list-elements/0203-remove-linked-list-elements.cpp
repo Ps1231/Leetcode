@@ -16,5 +16,4 @@ public:
         if (head->val == val) return next;
         head->next = next;
         return head;
-    }
-};
+    }};

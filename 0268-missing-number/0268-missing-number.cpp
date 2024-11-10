@@ -15,7 +15,7 @@ public:
             {
                 n=0;
             }
-            if (i == s - 1 && nums[i] != s)  // Check if last element is not equal to `s`
+            else if (i == s - 1 && nums[i] != s)  // Check if last element is not equal to `s`
             {
                 n= s;
                 break;// The missing number is `s`

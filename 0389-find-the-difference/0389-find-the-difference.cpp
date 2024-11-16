@@ -1,11 +1,11 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        int xor1=0;
-        int n=t.size();
-        for (int i=0;i<n;i++)
-        {
-            xor1^=s[i]^t[i];
-        } return xor1;
+        int sum1=0,sum2=0;
+        for (char c : s) 
+        {sum1 += int(c);}
+        for (char d : t) 
+        { sum2+= int(d);}
+        return char(sum2-sum1);
     }
 };

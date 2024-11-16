@@ -18,9 +18,7 @@ public:
                 }
             }
              if (flag==0)return i;
-        }
-       
-        
+        } 
      return -1;
     }
 };

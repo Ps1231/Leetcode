@@ -1,9 +1,15 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int xor1=0;
-        for (auto x:nums)
-        {    xor1^=x; }
-        return xor1;   
+       sort(nums.begin(),nums.end());
+        int n=nums.size();
+        for(int i=1;i<n;i+=2)
+        {
+            if(nums[i-1]!=nums[i])
+            {  return nums[i-1];
+            }
+            
+        } 
+        return nums[n-1];
     } 
 };

@@ -1,20 +1,20 @@
 #include <bits/stdc++.h>
 using namespace std;
-// better approach 
+// optimal approach 
 class Solution 
 {
 public:
     int missingNumber(vector<int>& nums) 
-    {   int n =nums.size();
-        int sum=(( n*(n+1))/2);
-     int sum2=0;
-        for (int i=0;i<n;i++)
-        {
-            sum2= sum2+nums[i];
+    {   int n=nums.size();
+ 
+        int xor1=0,xor2=0;
+        for(int i=0;i<n;i++){
+            xor2=xor2 ^ nums[i];
+            xor1=xor1 ^ (i+1);
             
         }
-     int m=sum-sum2;
-     return m;
+       
+        return xor1^xor2;
     }
    
 };

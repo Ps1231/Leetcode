@@ -15,7 +15,6 @@ public:
             
             max1=max(cnt,max1);
             max2=max(cnt2,max2);
-        } if(max1>max2) {return true;}
-          else {return false;}
+        } return max1>max2;
     }
 };

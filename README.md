@@ -73,6 +73,7 @@ LeetCode for providing a platform to practice coding skills.
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ps1231/Leetcode/tree/master/0053-maximum-subarray) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Ps1231/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## String
 |  |
@@ -81,5 +82,10 @@ LeetCode for providing a platform to practice coding skills.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ps1231/Leetcode/tree/master/0053-maximum-subarray) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Ps1231/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Ps1231/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

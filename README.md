@@ -74,6 +74,7 @@ LeetCode for providing a platform to practice coding skills.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ps1231/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Ps1231/Leetcode/tree/master/0169-majority-element) |
 | [0724-find-pivot-index](https://github.com/Ps1231/Leetcode/tree/master/0724-find-pivot-index) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Ps1231/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Ps1231/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -90,8 +91,21 @@ LeetCode for providing a platform to practice coding skills.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ps1231/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Ps1231/Leetcode/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Ps1231/Leetcode/tree/master/0724-find-pivot-index) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ps1231/Leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ps1231/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ps1231/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

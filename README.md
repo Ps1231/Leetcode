@@ -74,6 +74,7 @@ LeetCode for providing a platform to practice coding skills.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ps1231/Leetcode/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/Ps1231/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ps1231/Leetcode/tree/master/0169-majority-element) |
 | [0724-find-pivot-index](https://github.com/Ps1231/Leetcode/tree/master/0724-find-pivot-index) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Ps1231/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -108,4 +109,8 @@ LeetCode for providing a platform to practice coding skills.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ps1231/Leetcode/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Ps1231/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

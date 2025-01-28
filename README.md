@@ -75,6 +75,7 @@ LeetCode for providing a platform to practice coding skills.
 | ------- |
 | [0001-two-sum](https://github.com/Ps1231/Leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Ps1231/Leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Ps1231/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Ps1231/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ps1231/Leetcode/tree/master/0169-majority-element) |
 | [0724-find-pivot-index](https://github.com/Ps1231/Leetcode/tree/master/0724-find-pivot-index) |
@@ -106,6 +107,7 @@ LeetCode for providing a platform to practice coding skills.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ps1231/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ps1231/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -115,4 +117,8 @@ LeetCode for providing a platform to practice coding skills.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ps1231/Leetcode/tree/master/0136-single-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ps1231/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

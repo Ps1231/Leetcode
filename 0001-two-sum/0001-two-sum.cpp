@@ -1,22 +1,16 @@
 class Solution {
 public:
-    vector<int> twoSum(vector<int>& nums, int target) {
-        unordered_map<int, int> numMap;
-        int n = nums.size();
-
-        // Build the hash table
-        for (int i = 0; i < n; i++) {
-            numMap[nums[i]] = i;
-        }
-
-        // Find the complement
-        for (int i = 0; i < n; i++) {
-            int complement = target - nums[i];
-            if (numMap.count(complement) && numMap[complement] != i) {
-                return {i, numMap[complement]};
+    vector<int> twoSum(vector<int>& nums, int target) 
+    {
+         int n = nums.size();
+         int rem;
+        unordered_map <int,int> mmap;
+        for(int i=0;i<n;i++){
+            rem=target-nums[i];
+            if(mmap.find(rem)!=mmap.end()){
+                return {i, mmap[rem]};
             }
-        }
-
-        return {}; // No solution found
+            mmap[nums[i]]=i;
+        } return{};
     }
 };

@@ -81,6 +81,7 @@ LeetCode for providing a platform to practice coding skills.
 | [0128-longest-consecutive-sequence](https://github.com/Ps1231/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Ps1231/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ps1231/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ps1231/Leetcode/tree/master/0229-majority-element-ii) |
 | [0724-find-pivot-index](https://github.com/Ps1231/Leetcode/tree/master/0724-find-pivot-index) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Ps1231/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Ps1231/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -113,17 +114,20 @@ LeetCode for providing a platform to practice coding skills.
 | [0073-set-matrix-zeroes](https://github.com/Ps1231/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Ps1231/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ps1231/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ps1231/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Ps1231/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ps1231/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ps1231/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ps1231/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Ps1231/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ps1231/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ps1231/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Ps1231/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Bit Manipulation
 |  |

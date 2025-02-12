@@ -74,6 +74,7 @@ LeetCode for providing a platform to practice coding skills.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ps1231/Leetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Ps1231/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Ps1231/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ps1231/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ps1231/Leetcode/tree/master/0056-merge-intervals) |
@@ -166,4 +167,8 @@ LeetCode for providing a platform to practice coding skills.
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Ps1231/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Ps1231/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->

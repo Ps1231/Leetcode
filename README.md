@@ -74,6 +74,7 @@ LeetCode for providing a platform to practice coding skills.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ps1231/Leetcode/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ps1231/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ps1231/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ps1231/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Ps1231/Leetcode/tree/master/0048-rotate-image) |
@@ -171,6 +172,7 @@ LeetCode for providing a platform to practice coding skills.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ps1231/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ps1231/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ps1231/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->

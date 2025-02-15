@@ -142,6 +142,7 @@ LeetCode for providing a platform to practice coding skills.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ps1231/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Ps1231/Leetcode/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -165,6 +166,7 @@ LeetCode for providing a platform to practice coding skills.
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ps1231/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Ps1231/Leetcode/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/Ps1231/Leetcode/tree/master/0231-power-of-two) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -181,4 +183,8 @@ LeetCode for providing a platform to practice coding skills.
 | [0035-search-insert-position](https://github.com/Ps1231/Leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ps1231/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ps1231/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Ps1231/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

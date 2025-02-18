@@ -88,6 +88,7 @@ LeetCode for providing a platform to practice coding skills.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ps1231/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Ps1231/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ps1231/Leetcode/tree/master/0229-majority-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Ps1231/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/Ps1231/Leetcode/tree/master/0724-find-pivot-index) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Ps1231/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Ps1231/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -183,6 +184,7 @@ LeetCode for providing a platform to practice coding skills.
 | [0035-search-insert-position](https://github.com/Ps1231/Leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ps1231/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ps1231/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Ps1231/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Recursion
 |  |
 | ------- |

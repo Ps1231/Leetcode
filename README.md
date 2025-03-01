@@ -211,4 +211,8 @@ LeetCode for providing a platform to practice coding skills.
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Ps1231/Leetcode/tree/master/0493-reverse-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Ps1231/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->

@@ -215,4 +215,16 @@ LeetCode for providing a platform to practice coding skills.
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ps1231/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ps1231/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ps1231/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ps1231/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->

@@ -1,42 +1,48 @@
-#include <stack>
-
 class MyQueue {
 public:
-    std::stack<int> s1;
-    std::stack<int> s2;
-    int front; // Declare 'front' as a member variable
-
-    MyQueue() {
-        front = 0; // Initialize 'front' in the constructor
-    }
-
+stack < int > input, output;
+    MyQueue() {}
+    
     void push(int x) {
-        if (s1.empty()) {
-            front = x;
+        while (!input.empty()) {
+      output.push(input.top());
+      input.pop();
         }
-        s1.push(x);
+        output.push(x);
+        while (!output.empty()) {
+      input.push(output.top());
+      output.pop();
     }
-
+    }
+    
     int pop() {
-        if (s2.empty()) {
-            while (!s1.empty()) {
-                s2.push(s1.top());
-                s1.pop();
-            }
-        }
-        int popped = s2.top();
-        s2.pop();
-        return popped;
-    }
+     if (input.empty()) {
 
+      exit(0);
+    }
+    int val = input.top();
+    input.pop();
+    return val;   
+    }
+    
     int peek() {
-        if (!s2.empty()) {
-            return s2.top();
-        }
-        return front;
-    }
+        if (input.empty()) {
 
+      exit(0);
+    }
+    return input.top();
+    }
+    
     bool empty() {
-        return s1.empty() && s2.empty();
+        return input.empty();
     }
 };
+
+/**
+ * Your MyQueue object will be instantiated and called as such:
+ * MyQueue* obj = new MyQueue();
+ * obj->push(x);
+ * int param_2 = obj->pop();
+ * int param_3 = obj->peek();
+ * bool param_4 = obj->empty();
+ */

@@ -100,6 +100,7 @@ LeetCode for providing a platform to practice coding skills.
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Ps1231/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Ps1231/Leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Ps1231/Leetcode/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Ps1231/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Ps1231/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Ps1231/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -218,6 +219,7 @@ LeetCode for providing a platform to practice coding skills.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ps1231/Leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Ps1231/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ps1231/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Design

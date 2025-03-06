@@ -89,6 +89,7 @@ LeetCode for providing a platform to practice coding skills.
 | [0169-majority-element](https://github.com/Ps1231/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ps1231/Leetcode/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/Ps1231/Leetcode/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/Ps1231/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ps1231/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/Ps1231/Leetcode/tree/master/0724-find-pivot-index) |
 | [0907-koko-eating-bananas](https://github.com/Ps1231/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -130,6 +131,7 @@ LeetCode for providing a platform to practice coding skills.
 | [0205-isomorphic-strings](https://github.com/Ps1231/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Ps1231/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Ps1231/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Ps1231/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -223,6 +225,7 @@ LeetCode for providing a platform to practice coding skills.
 | [0155-min-stack](https://github.com/Ps1231/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ps1231/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ps1231/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Ps1231/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -234,4 +237,8 @@ LeetCode for providing a platform to practice coding skills.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Ps1231/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ps1231/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Ps1231/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

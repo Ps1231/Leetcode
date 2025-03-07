@@ -241,4 +241,8 @@ LeetCode for providing a platform to practice coding skills.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ps1231/Leetcode/tree/master/0496-next-greater-element-i) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Ps1231/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

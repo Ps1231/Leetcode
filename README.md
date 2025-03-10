@@ -83,6 +83,7 @@ LeetCode for providing a platform to practice coding skills.
 | [0073-set-matrix-zeroes](https://github.com/Ps1231/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ps1231/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ps1231/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Ps1231/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Ps1231/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Ps1231/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ps1231/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -137,6 +138,7 @@ LeetCode for providing a platform to practice coding skills.
 | ------- |
 | [0056-merge-intervals](https://github.com/Ps1231/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ps1231/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Ps1231/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ps1231/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ps1231/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Ps1231/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -155,6 +157,7 @@ LeetCode for providing a platform to practice coding skills.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ps1231/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Ps1231/Leetcode/tree/master/0088-merge-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ps1231/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |

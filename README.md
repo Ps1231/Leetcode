@@ -175,6 +175,7 @@ LeetCode for providing a platform to practice coding skills.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Ps1231/Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Ps1231/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Ps1231/Leetcode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Ps1231/Leetcode/tree/master/0231-power-of-two) |

@@ -160,6 +160,7 @@ LeetCode for providing a platform to practice coding skills.
 | ------- |
 | [0075-sort-colors](https://github.com/Ps1231/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ps1231/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0908-middle-of-the-linked-list](https://github.com/Ps1231/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ps1231/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -230,6 +231,7 @@ LeetCode for providing a platform to practice coding skills.
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ps1231/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/Ps1231/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |

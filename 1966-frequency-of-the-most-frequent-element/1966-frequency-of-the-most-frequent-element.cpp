@@ -8,7 +8,7 @@ public:
         for (int right = 0; right < nums.size(); right++) {
             total += nums[right];
 
-            while ((long long)nums[right] * (right - left + 1) - total > k) {
+            if ((long long)nums[right] * (right - left + 1) - total > k) {
                 total -= nums[left];
                 left++;
             }

@@ -90,6 +90,7 @@ LeetCode for providing a platform to practice coding skills.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ps1231/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Ps1231/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ps1231/Leetcode/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/Ps1231/Leetcode/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/Ps1231/Leetcode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Ps1231/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ps1231/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -165,6 +166,7 @@ LeetCode for providing a platform to practice coding skills.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ps1231/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Ps1231/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ps1231/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Ps1231/Leetcode/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/Ps1231/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ps1231/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation

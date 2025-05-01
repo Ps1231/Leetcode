@@ -89,6 +89,7 @@ LeetCode for providing a platform to practice coding skills.
 | [0136-single-number](https://github.com/Ps1231/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ps1231/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Ps1231/Leetcode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Ps1231/Leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Ps1231/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ps1231/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Ps1231/Leetcode/tree/master/0283-move-zeroes) |
@@ -117,6 +118,7 @@ LeetCode for providing a platform to practice coding skills.
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ps1231/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Ps1231/Leetcode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Ps1231/Leetcode/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/Ps1231/Leetcode/tree/master/1013-fibonacci-number) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Ps1231/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Divide and Conquer

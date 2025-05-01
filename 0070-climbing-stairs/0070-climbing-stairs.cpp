@@ -1,12 +1,15 @@
 class Solution {
 public:
-int climbStairs(int n) {
-        int a = 0, b = 1;
-        for (int i = 0; i < n; ++i) {
-            int c = a + b;
-            a = b;
-            b = c;
-        }
-        return b;
+    int climbStairs(int n) {
+        if (n==1){return 1;}
+        int prev2 = 1;
+        int prev = 1;
+  
+    for(int i=2; i<=n; i++){
+      int cur_i = prev2+ prev;
+      prev2 = prev;
+      prev= cur_i;
+  }
+  return prev;
     }
 };

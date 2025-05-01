@@ -89,6 +89,7 @@ LeetCode for providing a platform to practice coding skills.
 | [0136-single-number](https://github.com/Ps1231/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ps1231/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Ps1231/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Ps1231/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ps1231/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Ps1231/Leetcode/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/Ps1231/Leetcode/tree/master/0493-reverse-pairs) |
@@ -136,6 +137,7 @@ LeetCode for providing a platform to practice coding skills.
 | [0128-longest-consecutive-sequence](https://github.com/Ps1231/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ps1231/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Ps1231/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Ps1231/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ps1231/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Ps1231/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Ps1231/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -146,6 +148,7 @@ LeetCode for providing a platform to practice coding skills.
 | [0075-sort-colors](https://github.com/Ps1231/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ps1231/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ps1231/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Ps1231/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ps1231/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Ps1231/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ps1231/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |

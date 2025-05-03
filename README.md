@@ -98,6 +98,7 @@ LeetCode for providing a platform to practice coding skills.
 | [0496-next-greater-element-i](https://github.com/Ps1231/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ps1231/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/Ps1231/Leetcode/tree/master/0724-find-pivot-index) |
+| [0890-lemonade-change](https://github.com/Ps1231/Leetcode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Ps1231/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Ps1231/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Ps1231/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -311,6 +312,7 @@ LeetCode for providing a platform to practice coding skills.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Ps1231/Leetcode/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/Ps1231/Leetcode/tree/master/0890-lemonade-change) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Ps1231/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ps1231/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window

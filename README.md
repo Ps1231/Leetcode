@@ -98,6 +98,7 @@ LeetCode for providing a platform to practice coding skills.
 | [0540-single-element-in-a-sorted-array](https://github.com/Ps1231/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/Ps1231/Leetcode/tree/master/0724-find-pivot-index) |
 | [0907-koko-eating-bananas](https://github.com/Ps1231/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Ps1231/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Ps1231/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ps1231/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Ps1231/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -306,6 +307,7 @@ LeetCode for providing a platform to practice coding skills.
 ## Greedy
 |  |
 | ------- |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Ps1231/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ps1231/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |

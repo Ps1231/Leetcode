@@ -295,6 +295,7 @@ LeetCode for providing a platform to practice coding skills.
 | [0584-find-customer-referee](https://github.com/Ps1231/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Ps1231/Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/Ps1231/Leetcode/tree/master/0596-classes-more-than-5-students) |
+| [0619-biggest-single-number](https://github.com/Ps1231/Leetcode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Ps1231/Leetcode/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/Ps1231/Leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/Ps1231/Leetcode/tree/master/1161-project-employees-i) |

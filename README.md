@@ -120,6 +120,7 @@ LeetCode for providing a platform to practice coding skills.
 | [0451-sort-characters-by-frequency](https://github.com/Ps1231/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Ps1231/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Ps1231/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/Ps1231/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 ## Dynamic Programming
 |  |
 | ------- |

@@ -1,8 +1,7 @@
 class Solution(object):
     def checkString(self, s):
         
-        for i in range(len(s) - 1):
-                if s[i] == 'b' and s[i+1] == 'a':
-                    return False
+        if 'ba' in s:
+            return False
         return True
         

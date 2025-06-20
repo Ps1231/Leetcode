@@ -82,6 +82,7 @@ LeetCode for providing a platform to practice coding skills.
 | [0036-valid-sudoku](https://github.com/Ps1231/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Ps1231/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ps1231/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Ps1231/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Ps1231/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Ps1231/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ps1231/Leetcode/tree/master/0075-sort-colors) |
@@ -200,6 +201,7 @@ LeetCode for providing a platform to practice coding skills.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ps1231/Leetcode/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ps1231/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
@@ -210,6 +212,7 @@ LeetCode for providing a platform to practice coding skills.
 | ------- |
 | [0036-valid-sudoku](https://github.com/Ps1231/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Ps1231/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Ps1231/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ps1231/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |

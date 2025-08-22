@@ -133,6 +133,7 @@ LeetCode for providing a platform to practice coding skills.
 | [0070-climbing-stairs](https://github.com/Ps1231/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ps1231/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Ps1231/Leetcode/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/Ps1231/Leetcode/tree/master/0338-counting-bits) |
 | [0678-valid-parenthesis-string](https://github.com/Ps1231/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/Ps1231/Leetcode/tree/master/1013-fibonacci-number) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Ps1231/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -191,6 +192,7 @@ LeetCode for providing a platform to practice coding skills.
 | [0136-single-number](https://github.com/Ps1231/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Ps1231/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Ps1231/Leetcode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Ps1231/Leetcode/tree/master/0338-counting-bits) |
 ## Two Pointers
 |  |
 | ------- |

@@ -1,19 +1,19 @@
-class Solution(object):
-    def isValidSudoku(self, board):
-        rows = defaultdict(set)
-        cols = defaultdict(set)
-        boxes = defaultdict(set)
-
+class Solution:
+    def isValidSudoku(self, board: List[List[str]]) -> bool:
+        col=defaultdict(set)
+        row=defaultdict(set)
+        sq=defaultdict(set)
         for r in range(9):
-            for c in range(9):
-                if board[r][c] == ".":
+            for c in range (9):
+                if board[r][c]=='.':
                     continue
-                formula=(r//3)*3+(c//3)
-                if board[r][c] in rows[r] or board[r][c] in cols[c] or board[r][c] in boxes[formula]:
+                if ( board[r][c] in row[r]
+                    or board[r][c] in col[c]
+                    or board[r][c] in sq[(r // 3, c // 3)]):
                     return False
-                rows[r].add(board[r][c])
-                cols[c].add(board[r][c])
-                boxes[formula].add(board[r][c])
-        return True
 
-        
+                col[c].add(board[r][c])
+                row[r].add(board[r][c])
+                sq[(r // 3, c // 3)].add(board[r][c])
+
+        return True

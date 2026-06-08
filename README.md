@@ -130,6 +130,7 @@ LeetCode for providing a platform to practice coding skills.
 | [0242-valid-anagram](https://github.com/Ps1231/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Ps1231/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Ps1231/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ps1231/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Ps1231/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Ps1231/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Ps1231/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
@@ -310,6 +311,7 @@ LeetCode for providing a platform to practice coding skills.
 | [0232-implement-queue-using-stacks](https://github.com/Ps1231/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Ps1231/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Ps1231/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ps1231/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Ps1231/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Design
 |  |
@@ -382,6 +384,7 @@ LeetCode for providing a platform to practice coding skills.
 | [0455-assign-cookies](https://github.com/Ps1231/Leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Ps1231/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Ps1231/Leetcode/tree/master/0890-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ps1231/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Ps1231/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ps1231/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
